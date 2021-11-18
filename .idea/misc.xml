@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Smiri/AndroidStudioProjects/Finally/app/src/main/res/drawable/avatar.xml" value="0.18125" />
+        <entry key="..\:/Users/Smiri/AndroidStudioProjects/Finally/app/src/main/res/layout/activity_choose_pat_nurse.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/Smiri/AndroidStudioProjects/Finally/app/src/main/res/layout/activity_login.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/Smiri/AndroidStudioProjects/Finally/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Smiri/AndroidStudioProjects/Finally/app/src/main/res/layout/activity_nurse.xml" value="0.25" />
+        <entry key="..\:/Users/Smiri/AndroidStudioProjects/Finally/app/src/main/res/layout/activity_nurse_contact.xml" value="0.25" />
+        <entry key="..\:/Users/Smiri/AndroidStudioProjects/Finally/app/src/main/res/layout/activity_nurse_n.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/Smiri/AndroidStudioProjects/Finally/app/src/main/res/layout/activity_patient.xml" value="0.33" />
+        <entry key="..\:/Users/Smiri/AndroidStudioProjects/Finally/app/src/main/res/layout/activity_register.xml" value="0.1598731884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
